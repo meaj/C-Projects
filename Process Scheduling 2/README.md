@@ -11,7 +11,7 @@ They were completed as part of my University coursework.
  
  **pslibrary.c** : Library of functions used to emulate process scheduling. Contains FCFS, SJF, PSJF, and RR algorithms and helper functions.
  
- **runalla.c** : Used to run all possible input values from `0,0,0,0,0,0,0` to `60,60,60,60,60,60,60` on all sheduling algorithms.
+ **runalla.c** : Used to run all possible input values from `0,0,0,0,0,0,0` to `60,60,60,60,60,60,60` on all scheduling algorithms.
  
  **pslibrary.h** : The .h file which has the function prototypes used by `pslibrary.c`.
  
